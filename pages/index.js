@@ -43,6 +43,9 @@ export default function Home({ allPostsData }) {
           ))}
         </ul>
         <h2 className={utilStyles.headingLg}>Cool Stuff</h2>
+        <Link href="/coolStuff/button">
+          <a>Counter Example</a>
+        </Link>
       </section>
     </Layout>
   );
