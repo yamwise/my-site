@@ -37,7 +37,11 @@ export default function Button(props) {
           data fetching to keep track of count over longer periods of time.
         </p>
         <p align="center">
-          You can look at the code for this page <a href="">here</a>.
+          You can look at the code for this page{" "}
+          <a href="https://github.com/yamwise/my-site/blob/master/pages/coolStuff/button.js">
+            here
+          </a>
+          .
         </p>
       </div>
     </Layout>
